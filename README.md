@@ -17,7 +17,7 @@ buy products, leave a review on the product, reply to comments, track orders, as
 ![customerHistory](https://github.com/Mart1n4s/E-Shop/assets/131029601/231c52c6-ecb8-4257-9674-c8a1751d7a8d)
 
 
-Activies for managers are:
+Activities for managers are:
 manage products, warehouses, users, urgent and non-urgent orders, filter orders, select responsible employee for a specific order, change order status and track shop sales.
 
 ![products](https://github.com/Mart1n4s/E-Shop/assets/131029601/937386a8-fc47-4755-afb7-9b91afe649e7)
