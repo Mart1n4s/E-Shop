@@ -1,11 +1,12 @@
-E-Shop which is done with JavaFx, Lombok and MySQl Connector libraries using XAMPP.
+E-Shop which is done with JavaFx, Lombok and MySQL Connector libraries using XAMPP server.
 
 Main window where customers and managers can login:
 
 ![login](https://github.com/Mart1n4s/E-Shop/assets/131029601/e4cbbfd9-f58d-4bbb-8d45-fd10361df3bb)
 
+
 Activities for customers are:
-Buy products, leave a review on the product, reply to comments, track orders, ask a question about order and check order history
+buy products, leave a review on the product, reply to comments, track orders, ask a question about order and track order history.
 
 ![main](https://github.com/Mart1n4s/E-Shop/assets/131029601/02544475-ec46-4ef9-9461-4eae897393e9)
 
@@ -15,8 +16,9 @@ Buy products, leave a review on the product, reply to comments, track orders, as
 
 ![customerHistory](https://github.com/Mart1n4s/E-Shop/assets/131029601/231c52c6-ecb8-4257-9674-c8a1751d7a8d)
 
+
 Activies for managers are:
-Managing products, warehouses, orders, users and tracking sales
+manage products, warehouses, users, urgent and non-urgent orders, filter orders, select responsible employee for a specific order, change order status and track shop sales.
 
 ![products](https://github.com/Mart1n4s/E-Shop/assets/131029601/937386a8-fc47-4755-afb7-9b91afe649e7)
 
